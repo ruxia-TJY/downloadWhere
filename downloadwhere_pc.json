@@ -1,5 +1,5 @@
 {
-  "update": "2023-09-23 15:22",
+  "update": "2023-09-23 16:03",
   "list":{
     "通信": [
       {
@@ -22,6 +22,52 @@
       {
         "n": "腾讯文档",
         "l": "https://docs.qq.com/home#download",
+        "t": ""
+      },
+      {
+        "n": "Draw.io",
+        "l": "https://www.drawio.com/",
+        "t": "流程图绘制软件"
+      }
+    ],
+    "效率": [
+      {
+        "n": "Everything",
+        "l": "https://www.voidtools.com/zh-cn/downloads/",
+        "t": "本地快速搜素软件"
+      },
+      {
+        "n": "Geek Uninstaller",
+        "l": "https://geekuninstaller.com/",
+        "t": ""
+      },
+      {
+        "n": "RevokeMsgPatcher",
+        "l": "https://github.com/huiyadanli/RevokeMsgPatcher",
+        "t": "PC版微信QQTIM防撤回及微信多开工具"
+      }
+    ],
+    "远程": [
+      {
+        "n": "TeamViewer",
+        "l": "https://www.teamviewer.cn/cn/",
+        "t": ""
+      }
+    ],
+    "解压缩": [
+      {
+        "n": "7Zip",
+        "l": "https://www.7-zip.org/",
+        "t": "开源解压缩软件"
+      },
+      {
+        "n": "WinRAR",
+        "l": "http://www.winrar.com.cn",
+        "t": ""
+      },
+      {
+        "n": "Bandizip",
+        "l": "https://www.bandisoft.com/bandizip/",
         "t": ""
       }
     ],
@@ -89,6 +135,19 @@
         "t": "免费矢量图绘制软件"
       }
 
+    ],
+    "阅读": [
+      {
+        "n": "Sumatra PDF",
+        "l": "https://www.sumatrapdfreader.org/free-pdf-reader",
+        "t": "免费阅读器，支持PDF，EPUB众多格式"
+      },
+      {
+        "n": "福昕PDF阅读器",
+        "l": "https://www.foxitsoftware.cn/pdf-reader/",
+        "t": "国产阅读器"
+      }
     ]
+
   }
 }
