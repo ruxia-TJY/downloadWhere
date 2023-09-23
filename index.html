@@ -1,0 +1,50 @@
+<!--
+         _ _                  _____
+        | (_) __ _ _   _ _   |_   _|   _
+     _  | | |/ _` | | | | | | || || | | |
+    | |_| | | (_| | |_| | |_| || || |_| |
+     \___/|_|\__,_|\__, |\__,_||_| \__,_|
+                   |___/
+-->
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>downloadwhere</title>
+
+
+    <meta name="keywords" content="jiayutu,download,download where">
+    <meta name="description" content="The index for download of software">
+    <meta name="author" content="Jiayu Tu">
+
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/downloadWhere.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="favicon.png" sizes="16x16">
+    <script src="js/data.js"></script>
+    <script src="js/search.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+
+</head>
+<body>
+    <h1>downloadWhere</h1>
+    <form class="search_form" action="/">
+        <input type="text" placeholder="搜索需要的软件.." name="search" id="search_input" onkeyup="search_keyup()">
+        <button type="button" id="button" onclick="search_btn_click()"><i class="fa fa-search"></i></button>
+    </form>
+    <div id="list_div">
+        <ul id="list">
+
+        </ul>
+    </div>
+    <div id="copyright">
+        <p>&copy; 2023 JiayuTu</p>
+    </div>
+</body>
+<script>
+    loadJSON();
+</script>

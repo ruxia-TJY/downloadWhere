@@ -1,0 +1,53 @@
+form.search_form input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+form.search_form button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.search_form button:hover {
+    background: #0b7dda;
+}
+
+form.search_form::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#list{
+    list-style-type: none;
+}
+
+#list li a{
+    border: 1px solid #ddd;
+    margin-top: -1px;
+    background-color: #f6f6f6;
+    padding: 12px;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+
+#list li a.header{
+    background-color: #e2e2e2;
+    cursor: default;
+}
+
+#list li a:hover:not(.header){
+    background-color: #eee;
+}
