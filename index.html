@@ -31,9 +31,9 @@
 
 </head>
 <body>
-    <h1>downloadWhere</h1>
+    <h1>downloadWhere - 在哪下</h1>
     <form class="search_form" action="/">
-        <input type="text" placeholder="搜索需要的软件.." name="search" id="search_input" onkeyup="search_keyup()">
+        <input type="text" placeholder="输入想要的软件名" name="search" id="search_input" onkeyup="search_keyup()">
         <button type="button" id="button" onclick="search_btn_click()"><i class="fa fa-search"></i></button>
     </form>
     <div id="list_div">
@@ -42,9 +42,19 @@
         </ul>
     </div>
     <div id="copyright">
-        <p>&copy; 2023 JiayuTu</p>
+        <div id="footer-link">
+            <p style="font-size: 18px"><b>访问我</b></p><br />
+            <a href="https://gitee.com/ruxia-tjy">Gitee</a> |
+            <a href="https://github.com/ruxia-tjy">Github</a> |
+            <a href="https://blog.jiayublog.cn">博客</a> |
+            <a href="https://space.bilibili.com/472663791">B站</a>
+        </div>
+
+        <br />
+        <p>&copy; 2023 JiayuTu, All rights reserved.</p>
     </div>
 </body>
 <script>
     loadJSON();
+    document.getElementById('search_input').focus();
 </script>

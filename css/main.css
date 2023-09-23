@@ -6,3 +6,8 @@
 a,abbr{
     text-decoration: none;
 }
+
+h1{
+    margin: 10px;
+    font-family: 'Pushster', cursive;
+}

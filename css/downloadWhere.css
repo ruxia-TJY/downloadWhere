@@ -51,3 +51,24 @@ form.search_form::after {
 #list li a:hover:not(.header){
     background-color: #eee;
 }
+
+#copyright{
+    width: 100%;
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+}
+
+#footer-link a{
+    font-size: 14px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#footer-link a:link,#footer-link a:visited,#footer-link a:active{
+    color: black;
+}
+
+#footer-link a:hover{
+    font-size: 15px;
+}
