@@ -1,0 +1,94 @@
+{
+  "update": "2023-09-23 15:22",
+  "list":{
+    "通信": [
+      {
+        "n": "QQ",
+        "l": "https://im.qq.com/index/#downloadAnchor",
+        "t": ""
+      },
+      {
+        "n": "TIM",
+        "l": "https://office.qq.com/download.html",
+        "t": ""
+      },
+      {
+        "n": "微信",
+        "l": "https://pc.weixin.qq.com/",
+        "t": ""
+      }
+    ],
+    "工作": [
+      {
+        "n": "腾讯文档",
+        "l": "https://docs.qq.com/home#download",
+        "t": ""
+      }
+    ],
+    "视频影音": [
+      {
+        "n": "VLC",
+        "l": "https://www.videolan.org/vlc/",
+        "t": "开源播放器"
+      },
+      {
+        "n": "PotPlayer",
+        "l": "http://www.potplayercn.com/",
+        "t": "视频播放器"
+      },
+      {
+        "n": "Captura",
+        "l": "https://github.com/MathewSachin/Captura/releases/",
+        "t": "开源录屏软件"
+      },
+      {
+        "n": "爱奇艺",
+        "l": "https://www.iqiyi.com/",
+        "t": ""
+      },
+      {
+        "n": "腾讯视频",
+        "l": "https://v.qq.com/download.html",
+        "t": ""
+      },
+      {
+        "n": "OBS Studio",
+        "l": "https://obsproject.com/",
+        "t": "录屏推流软件"
+      },
+      {
+        "n": "ScreenToGif",
+        "l": "https://www.screentogif.com",
+        "t": "开源gif录制软件"
+      },
+      {
+        "n": "ShotCut",
+        "l": "https://www.shotcut.org/",
+        "t": "开源剪辑软件"
+      }
+    ],
+    "图像": [
+      {
+        "n": "Snipaste",
+        "l": "https://zh.snipaste.com",
+        "t": "截图贴图"
+      },
+      {
+        "n": "JPEGView",
+        "l": "https://github.com/sylikc/jpegview/releases",
+        "t": "图片查看"
+      },
+      {
+        "n": "GIMP",
+        "l": "https://www.gimp.org/",
+        "t": "开源图像编辑软件"
+      },
+      {
+        "n": "Inkscape",
+        "l": "https://inkscape.org/zh-hans/",
+        "t": "免费矢量图绘制软件"
+      }
+
+    ]
+  }
+}
