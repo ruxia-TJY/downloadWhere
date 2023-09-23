@@ -1,7 +1,7 @@
 {
-  "update": "2023-09-23 16:03",
+  "update": "2023-09-23 19:57",
   "list":{
-    "通信": [
+    "通讯": [
       {
         "n": "QQ",
         "l": "https://im.qq.com/index/#downloadAnchor",
@@ -25,6 +25,11 @@
         "t": ""
       },
       {
+        "n": "石墨文档",
+        "l": "https://shimo.im/",
+        "t": ""
+      },
+      {
         "n": "Draw.io",
         "l": "https://www.drawio.com/",
         "t": "流程图绘制软件"
@@ -45,6 +50,16 @@
         "n": "RevokeMsgPatcher",
         "l": "https://github.com/huiyadanli/RevokeMsgPatcher",
         "t": "PC版微信QQTIM防撤回及微信多开工具"
+      },
+      {
+        "n": "UTools",
+        "l": "https://u.tools/",
+        "t": ""
+      },
+      {
+        "n": "Internet Download Manager",
+        "l": "https://www.internetdownloadmanager.com/",
+        "t": ""
       }
     ],
     "远程": [
@@ -113,6 +128,28 @@
         "t": "开源剪辑软件"
       }
     ],
+    "音乐": [
+      {
+        "n": "QQ音乐",
+        "l": "https://y.qq.com/",
+        "t": ""
+      },
+      {
+        "n": "网易云音乐",
+        "l": "https://music.163.com/",
+        "t": ""
+      },
+      {
+        "n": "酷狗音乐",
+        "l": "https://www.kugou.com/",
+        "t": ""
+      },
+      {
+        "n": "酷我音乐",
+        "l": "https://kuwo.cn/",
+        "t": ""
+      }
+    ],
     "图像": [
       {
         "n": "Snipaste",
@@ -147,7 +184,130 @@
         "l": "https://www.foxitsoftware.cn/pdf-reader/",
         "t": "国产阅读器"
       }
+    ],
+    "杀毒电脑管家": [
+      {
+        "n": "360",
+        "l": "https://www.360.cn/",
+        "t": ""
+      },
+      {
+        "n": "火绒安全",
+        "l": "https://www.huorong.cn/",
+        "t": ""
+      },
+      {
+        "n": "CCleaner",
+        "l": "https://www.ccleaner.com/zh-cn",
+        "t": ""
+      }
+    ],
+    "游戏": [
+      {
+        "n": "Steam",
+        "l": "https://store.steampowered.com/",
+        "t": ""
+      },
+      {
+        "n": "Epic",
+        "l": "https://store.epicgames.com/zh-CN/",
+        "t": ""
+      }
+    ],
+    "IDE Editor":[
+      {
+        "n": "PyCharm",
+        "l": "https://www.jetbrains.com/pycharm/",
+        "t": ""
+      },
+      {
+        "n": "Intellij IDEA",
+        "l": "https://www.jetbrains.com/idea/",
+        "t": ""
+      },
+      {
+        "n": "Clion",
+        "l": "https://www.jetbrains.com/clion/",
+        "t": ""
+      },
+      {
+        "n": "WebStorm",
+        "l": "https://www.jetbrains.com/webstorm/",
+        "t": ""
+      },
+      {
+        "n": "Fleet",
+        "l": "https://www.jetbrains.com/fleet/",
+        "t": ""
+      },
+      {
+        "n": "Arduino",
+        "l": "https://www.arduino.cc/",
+        "t": ""
+      },
+      {
+        "n": "Android Studio",
+        "l": "https://developer.android.google.cn/studio/",
+        "t": ""
+      },
+      {
+        "n": "Visual Studio Code",
+        "l": "https://code.visualstudio.com/",
+        "t": "vscode"
+      },
+      {
+        "n": "Visual Studio",
+        "l": "https://visualstudio.microsoft.com/zh-hans/",
+        "t": ""
+      }
+    ],
+    "EDA": [
+      {
+        "n": "嘉立创EDA",
+        "l": "https://lceda.cn/page/download",
+        "t": ""
+      }
+    ],
+    "编程": [
+      {
+        "n": "Python",
+        "l": "https://www.python.org/",
+        "t": ""
+      },
+      {
+        "n": "Anaconda",
+        "l": "https://www.anaconda.com/",
+        "t": ""
+      }
+    ],
+    "设计建模": [
+      {
+        "n": "blender",
+        "l": "https://www.blender.org/",
+        "t": ""
+      },
+      {
+        "n": "OpenSCAD",
+        "l": "https://openscad.org/",
+        "t": ""
+      }
+    ],
+    "网盘": [
+      {
+        "n": "百度网盘",
+        "l": "https://pan.baidu.com/download",
+        "t": ""
+      },
+      {
+        "n": "阿里云盘",
+        "l": "https://www.aliyundrive.com/",
+        "t": ""
+      },
+      {
+        "n": "夸克网盘",
+        "l": "https://pan.quark.cn/",
+        "t": ""
+      }
     ]
-
   }
 }
