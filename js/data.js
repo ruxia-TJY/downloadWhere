@@ -6,6 +6,9 @@ function loadJSON() {
     request.onload = function (){
         if(request.status == 200){
             var json = JSON.parse(request.responseText);
+            var lastUpdate = `更新时间:${json['update']}`
+            document.getElementById('lastUpdate').innerHTML = lastUpdate;
+
             var ul_html = ""
             for (list_i in json['list']){
                 ul_html += `<li><a href="#" class="header">${list_i}</a> </li>\n`;
