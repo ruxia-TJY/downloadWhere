@@ -7,6 +7,10 @@ a,abbr{
     text-decoration: none;
 }
 
+a:hover,a:visited,a:active,a:link{
+    color: black;
+}
+
 h1{
     margin: 10px;
     font-family: 'Pushster', cursive;
