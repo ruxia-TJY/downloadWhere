@@ -16,6 +16,11 @@
         "n": "微信",
         "l": "https://pc.weixin.qq.com/",
         "t": ""
+      },
+      {
+        "n": "HexChat",
+        "l": "https://hexchat.github.io/",
+        "t": ""
       }
     ],
     "工作": [
@@ -33,6 +38,92 @@
         "n": "Draw.io",
         "l": "https://www.drawio.com/",
         "t": "流程图绘制软件"
+      }
+    ],
+    "笔记": [
+      {
+        "n":"印象笔记",
+        "l":"https://www.yinxiang.com/",
+        "t":""
+      },
+      {
+        "n": "有道云笔记",
+        "l": "https://note.youdao.com/",
+        "t": ""
+      },
+      {
+        "n": "Obsidian",
+        "l": "https://obsidian.md/",
+        "t": ""
+      },
+      {
+        "n": "为知笔记",
+        "l": "https://www.wiz.cn/zh-cn",
+        "t": ""
+      },
+      {
+        "n": "Notion",
+        "l": "https://www.notion.so/desktop",
+        "t": ""
+      }
+    ],
+    "文档": [
+      {
+        "n": "WPS国际版",
+        "l": "https://www.wps.com/",
+        "t": ""
+      },
+      {
+        "n": "WPS",
+        "l": "https://www.wps.cn/",
+        "t": ""
+      },
+      {
+        "n": "FreeOffic",
+        "l": "https://www.freeoffice.com/zh/",
+        "t": ""
+      },
+      {
+        "n": "LibreOffic",
+        "l": "https://zh-cn.libreoffice.org/",
+        "t": ""
+      },
+      {
+        "n": "OnlyOffic",
+        "l": "https://www.onlyoffice.com/zh/",
+        "t": ""
+      },
+      {
+        "n": "OpenOffic",
+        "l": "https://www.openoffice.org/zh-cn/",
+        "t": ""
+      }
+    ],
+    "浏览器": [
+      {
+        "n": "Chrome",
+        "l": "https://www.google.cn/chrome/index.html",
+        "t": ""
+      },
+      {
+        "n": "Firefox",
+        "l": "https://www.firefox.com.cn/",
+        "t": ""
+      },
+      {
+        "n": "Maxthon",
+        "l": "https://www.maxthon.com/zh/",
+        "t": "傲游浏览器"
+      },
+      {
+        "n": "Opera",
+        "l": "https://www.opera.com/zh-cn",
+        "t": ""
+      },
+      {
+        "n": "Tor",
+        "l": "https://www.torproject.org/",
+        "t": ""
       }
     ],
     "效率": [
@@ -57,15 +148,40 @@
         "t": ""
       },
       {
-        "n": "Internet Download Manager",
-        "l": "https://www.internetdownloadmanager.com/",
+        "n": "Wox",
+        "l": "http://www.wox.one/",
         "t": ""
+      },
+      {
+        "n": "Launchy",
+        "l": "http://www.launchy.net/",
+        "t": ""
+      },
+      {
+        "n": "Listary",
+        "l": "https://www.listary.com/",
+        "t": ""
+      },
+      {
+        "n": "AutoHotKey",
+        "l": "https://www.autohotkey.com/",
+        "t": ""
+      },
+      {
+        "n": "SpaceMonger",
+        "l": "https://spacemonger.en.softonic.com/download",
+        "t": "图形化显示硬盘空间"
       }
     ],
     "远程": [
       {
         "n": "TeamViewer",
         "l": "https://www.teamviewer.cn/cn/",
+        "t": ""
+      },
+      {
+        "n": "向日葵远程控制软件",
+        "l": "https://sunlogin.oray.com/",
         "t": ""
       }
     ],
@@ -93,14 +209,19 @@
         "t": "开源播放器"
       },
       {
-        "n": "PotPlayer",
-        "l": "http://www.potplayercn.com/",
-        "t": "视频播放器"
+        "n": "mpv",
+        "l": "https://mpv.io/",
+        "t": ""
       },
       {
-        "n": "Captura",
-        "l": "https://github.com/MathewSachin/Captura/releases/",
-        "t": "开源录屏软件"
+        "n": "PotPlayer",
+        "l": "http://www.potplayercn.com/",
+        "t": "国内可访问版本"
+      },
+      {
+        "n": "PotPlayer",
+        "l": "http://potplayer.daum.net/",
+        "t": "官网，国内无法访问"
       },
       {
         "n": "爱奇艺",
@@ -111,7 +232,10 @@
         "n": "腾讯视频",
         "l": "https://v.qq.com/download.html",
         "t": ""
-      },
+      }
+
+    ],
+    "录屏": [
       {
         "n": "OBS Studio",
         "l": "https://obsproject.com/",
@@ -122,6 +246,13 @@
         "l": "https://www.screentogif.com",
         "t": "开源gif录制软件"
       },
+      {
+        "n": "Captura",
+        "l": "https://github.com/MathewSachin/Captura/releases/",
+        "t": "开源录屏软件"
+      }
+    ],
+    "视频剪辑": [
       {
         "n": "ShotCut",
         "l": "https://www.shotcut.org/",
@@ -150,6 +281,13 @@
         "t": ""
       }
     ],
+    "音频编辑": [
+      {
+        "n": "Audacity",
+        "l": "https://www.audacityteam.org/",
+        "t": "免费开源音频编辑器"
+      }
+    ],
     "图像": [
       {
         "n": "Snipaste",
@@ -157,9 +295,19 @@
         "t": "截图贴图"
       },
       {
+        "n": "ShareX",
+        "l": "https://getsharex.com/",
+        "t": ""
+      },
+      {
         "n": "JPEGView",
         "l": "https://github.com/sylikc/jpegview/releases",
         "t": "图片查看"
+      },
+      {
+        "n": "HoneyView",
+        "l": "https://cn.bandisoft.com/honeyview/",
+        "t": "蜂蜜图像浏览器"
       },
       {
         "n": "GIMP",
@@ -170,8 +318,17 @@
         "n": "Inkscape",
         "l": "https://inkscape.org/zh-hans/",
         "t": "免费矢量图绘制软件"
+      },
+      {
+        "n": "Krita",
+        "l": "https://krita.org/zh/",
+        "t": ""
+      },
+      {
+        "n": "Paint.net",
+        "l": "https://www.getpaint.net/index.html",
+        "t": "免费简易版本的Photoshop"
       }
-
     ],
     "阅读": [
       {
@@ -185,7 +342,7 @@
         "t": "国产阅读器"
       }
     ],
-    "杀毒电脑管家": [
+    "电脑管家杀毒和清理": [
       {
         "n": "360",
         "l": "https://www.360.cn/",
@@ -200,6 +357,16 @@
         "n": "CCleaner",
         "l": "https://www.ccleaner.com/zh-cn",
         "t": ""
+      },
+      {
+        "n": "Dism++",
+        "l": "https://github.com/Chuyu-Team/Dism-Multi-language",
+        "t": ""
+      },
+      {
+        "n": "CleanMyPC",
+        "l": "https://macpaw.com/cleanmypc",
+        "t": ""
       }
     ],
     "游戏": [
@@ -212,6 +379,11 @@
         "n": "Epic",
         "l": "https://store.epicgames.com/zh-CN/",
         "t": ""
+      },
+      {
+        "n": "Watt Toolkit",
+        "l": "https://steampp.net/",
+        "t": "原Steam++"
       }
     ],
     "IDE Editor":[
@@ -259,12 +431,32 @@
         "n": "Visual Studio",
         "l": "https://visualstudio.microsoft.com/zh-hans/",
         "t": ""
+      },
+      {
+        "n": "微信开发者工具",
+        "l": "https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html",
+        "t": ""
+      },
+      {
+        "n": "HBuilderX",
+        "l": "https://www.dcloud.io/hbuilderx.html",
+        "t": ""
+      },
+      {
+        "n": "Vim",
+        "l": "https://www.vim.org/download.php",
+        "t": ""
       }
     ],
     "EDA": [
       {
         "n": "嘉立创EDA",
         "l": "https://lceda.cn/page/download",
+        "t": ""
+      },
+      {
+        "n": "KiCad EDA",
+        "l": "https://www.kicad.org/",
         "t": ""
       }
     ],
@@ -277,6 +469,11 @@
       {
         "n": "Anaconda",
         "l": "https://www.anaconda.com/",
+        "t": ""
+      },
+      {
+        "n": "MinGW-w64",
+        "l": "https://www.mingw-w64.org/",
         "t": ""
       }
     ],
@@ -307,6 +504,141 @@
         "n": "夸克网盘",
         "l": "https://pan.quark.cn/",
         "t": ""
+      }
+    ],
+    "模拟器": [
+      {
+        "n": "逍遥模拟器",
+        "l": "https://www.xyaz.cn/",
+        "t": ""
+      },
+      {
+        "n": "夜神模拟器",
+        "l": "https://www.yeshen.com/",
+        "t": ""
+      },
+      {
+        "n": "MuMu模拟器",
+        "l": "https://mumu.163.com/",
+        "t": ""
+      },
+      {
+        "n": "雷电模拟器",
+        "l": "https://www.ldmnq.com/",
+        "t": ""
+      },
+      {
+        "n": "腾讯手游助手",
+        "l": "https://syzs.qq.com/",
+        "t": ""
+      }
+    ],
+    "Shell": [
+      {
+        "n": "XShell",
+        "l": "https://www.xshell.com/zh/xshell/",
+        "t": ""
+      },
+      {
+        "n": "Putty",
+        "l": "https://putty.org/",
+        "t": ""
+      },
+      {
+        "n": "MobaXterm",
+        "l": "https://mobaxterm.mobatek.net/",
+        "t": ""
+      },
+      {
+        "n": "Cmder",
+        "l": "https://cmder.app/",
+        "t": ""
+      }
+    ],
+    "FTP": [
+      {
+        "n": "XFTP",
+        "l": "https://www.xshell.com/zh/xftp/",
+        "t": ""
+      },
+      {
+        "n": "FileZilla",
+        "l": "https://www.filezilla.cn/",
+        "t": ""
+      }
+    ],
+    "文本比较": [
+      {
+        "n": "WinMerge",
+        "l": "https://winmerge.org/",
+        "t": ""
+      },
+      {
+        "n": "Beyond Compare",
+        "l": "https://www.beyondcomparepro.com/download",
+        "t": ""
+      }
+    ],
+    "加解密": [
+      {
+        "n": "VeraCrypt",
+        "l": "https://www.veracrypt.fr/en/Downloads.html",
+        "t": ""
+      },
+      {
+        "n": "Encrypto",
+        "l": "https://macpaw.com/encrypto",
+        "t": ""
+      }
+    ],
+    "词典": [
+      {
+        "n": "欧路词典",
+        "l": "https://www.eudic.net/v4/en/app/download",
+        "t": ""
+      },
+      {
+        "n": "ToastFish",
+        "l": "https://github.com/Uahh/ToastFish",
+        "t": "通知栏背词软件，支持英语日语"
+      }
+    ],
+    "输入法": [
+      {
+        "n": "搜狗输入法",
+        "l": "https://shurufa.sogou.com/",
+        "t": ""
+      }
+    ],
+    "个性化": [
+      {
+        "n": "Rainmeter",
+        "l": "https://www.rainmeter.net/",
+        "t": "雨滴"
+      }
+    ],
+    "下载": [
+      {
+        "n": "qBittorrent",
+        "l": "https://qbittorrent.org/",
+        "t": ""
+      },
+      {
+        "n": "Internet Download Manager",
+        "l": "https://www.internetdownloadmanager.com/",
+        "t": "IDM"
+      }
+    ],
+    "启动盘": [
+      {
+        "n": "rufus",
+        "l": "https://rufus.ie/zh/",
+        "t": ""
+      },
+      {
+        "n": "Ultral",
+        "l": "https://www.cn.ultraiso.net/",
+        "t": "软碟通"
       }
     ]
   }
